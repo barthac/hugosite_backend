@@ -36,7 +36,7 @@ if [ -n "$*" ]; then
 fi
 
 git commit -m "$msg" # Makes your commit with the message from your deploy script execution
-git push origin master # Pushes the code to GitHub
+git push origin # Pushes the code to GitHub
 
 # Now deploy your backend with all of the 
 cd ../hugosite_backend #!!!!! Make sure to replace with your currect backend repo here.
@@ -49,4 +49,4 @@ if [ -n "$*" ]; then
 fi
 
 git commit -m "$msg" # Makes your commit with the message from your deploy script execution
-git push origin master # Pushes the code to GitHub
+git push origin # Pushes the code to GitHub

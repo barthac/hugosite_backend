@@ -10,7 +10,7 @@ If any of this is interesting to you, my artwork can be found at https://magmaar
 
 And I’d love to hear from you! 
 
-Email: abarth@ldeo.columbia.com
+Email: barthac@gmail.com
 
 <head>
 
