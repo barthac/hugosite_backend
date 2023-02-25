@@ -13,7 +13,7 @@ Get in touch!
 Email: barthac@gmail.com
 
 Download 
-[CV](/files/AB_CV.pdf)
+[CV](/files/AB_CV_2023.pdf)
 
 ![img](/images/Etna.jpg)
 
@@ -22,6 +22,8 @@ Download
 Liu, C. N., Lin, F. C., Manga, M., Farrell, J., Wu, S. M., Reed, M. H., **Barth, A.**, ... & White, E. (2023). Thumping Cycle Variations of Doublet Pool in Yellowstone National Park, USA. Geophysical Research Letters, 50(4), e2022GL101175. [pdf](/files/Liu2023.pdf)
 
 **Barth, A.**, Plank, T., & Towbin, H. (2023). Rates of dehydration in hydrous, high-Fo, magmatic olivines. Geochimica et Cosmochimica Acta, 342, 62-73. [pdf](/files/Barth2023.pdf)
+
+Paté, A., Farge, G., Holtzman, B. K., **Barth, A.**, Poli, P., Boschi, L., & Karlstrom, L. (2022). Combining audio and visual displays to highlight temporal and spatial seismic patterns. Journal on Multimodal User Interfaces, 1-18. [pdf](/files/Pate2022.pdf)
 
 **Barth, A.**, Karlstrom, L., Holtzman, B. K., Paté, A., & Nayak, A. (2021). Sonification and animation of multivariate data to illuminate dynamics of geyser eruptions. Computer Music Journal, 44(1), 35-50. [pdf](/files/CMJ_Barth2021.pdf)
 
