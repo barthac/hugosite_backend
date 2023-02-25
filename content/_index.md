@@ -19,14 +19,13 @@ Download
 
 ### List of publications:
 
-#### In review/press:
+Liu, C. N., Lin, F. C., Manga, M., Farrell, J., Wu, S. M., Reed, M. H., **Barth, A.**, ... & White, E. (2023). Thumping Cycle Variations of Doublet Pool in Yellowstone National Park, USA. Geophysical Research Letters, 50(4), e2022GL101175. [pdf](/files/Liu2023.pdf)
 
-**Anna Barth**, Leif Karlstrom, Benjamin K. Holtzman, Arthur Pate, Avinash Nayak. (in press) Sonification and Animation of Multivariate Data to Illuminate Dynamics of Geyser Eruptions (in pro
+**Barth, A.**, Plank, T., & Towbin, H. (2023). Rates of dehydration in hydrous, high-Fo, magmatic olivines. Geochimica et Cosmochimica Acta, 342, 62-73. [pdf](/files/Barth2023.pdf)
 
-**Anna Barth**, Terry Plank. The ins and outs of water in olivine-hosted melt inclusions: hygrometer vs. speedometer.  Frontiers in Earth Science (in review)
+**Barth, A.**, Karlstrom, L., Holtzman, B. K., Paté, A., & Nayak, A. (2020). Sonification and animation of multivariate data to illuminate dynamics of geyser eruptions. Computer Music Journal, 44(1), 35-50. [pdf](/files/CMJ_Barth2021.pdf)
 
-
-#### Published:
+**Barth, A.**, & Plank, T. (2021). The ins and outs of water in olivine-hosted melt inclusions: hygrometer vs. speedometer. Frontiers in Earth Science, 9, 614004. [pdf](/files/FIE_Barth2021.pdf)
 
 Rose-Koga, E. F., A-S. Bouvier, G. A. Gaetani, P. J. Wallace, C. M. Allison, J. A. Andrys, **A. Barth** et al. "Silicate melt inclusions in the new millennium: A review of recommended practices for preparation, analysis, and data presentation." Chemical Geology (2021): 120145. [pdf](/files/Rose-Koga2021.pdf)
 
