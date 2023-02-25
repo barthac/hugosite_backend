@@ -23,7 +23,7 @@ Liu, C. N., Lin, F. C., Manga, M., Farrell, J., Wu, S. M., Reed, M. H., **Barth,
 
 **Barth, A.**, Plank, T., & Towbin, H. (2023). Rates of dehydration in hydrous, high-Fo, magmatic olivines. Geochimica et Cosmochimica Acta, 342, 62-73. [pdf](/files/Barth2023.pdf)
 
-**Barth, A.**, Karlstrom, L., Holtzman, B. K., Paté, A., & Nayak, A. (2020). Sonification and animation of multivariate data to illuminate dynamics of geyser eruptions. Computer Music Journal, 44(1), 35-50. [pdf](/files/CMJ_Barth2021.pdf)
+**Barth, A.**, Karlstrom, L., Holtzman, B. K., Paté, A., & Nayak, A. (2021). Sonification and animation of multivariate data to illuminate dynamics of geyser eruptions. Computer Music Journal, 44(1), 35-50. [pdf](/files/CMJ_Barth2021.pdf)
 
 **Barth, A.**, & Plank, T. (2021). The ins and outs of water in olivine-hosted melt inclusions: hygrometer vs. speedometer. Frontiers in Earth Science, 9, 614004. [pdf](/files/FIE_Barth2021.pdf)
 
