@@ -6,7 +6,11 @@ featured_image: '/images/waterfalls.jpg'
 Understanding coupled multivariate data through sounds
 ------------------------------------------------------
 ------------------------------------------------------
+{{< vimeo 828509475 >}}
+
 {{< vimeo 379787732 >}}
+
+
 
 
 Relationship between magma decompression rate and explosive style
