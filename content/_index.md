@@ -18,6 +18,7 @@ Download
 ![img](/images/Etna.jpg)
 
 ### List of publications:
+Karlstrom, L., Holtzman, B., **Barth A.**, Crozier J., Pate, A. (2023) “Earth is Noisy. Why Should Its Data Be Silent?” In press, EOS doi:10.1029/2023EO230196
 
 Liu, C. N., Lin, F. C., Manga, M., Farrell, J., Wu, S. M., Reed, M. H., **Barth, A.**, ... & White, E. (2023). Thumping Cycle Variations of Doublet Pool in Yellowstone National Park, USA. Geophysical Research Letters, 50(4), e2022GL101175. [pdf](/files/Liu2023.pdf)
 
