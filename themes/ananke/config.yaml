@@ -1,3 +1,8 @@
 module:
   hugoVersion:
     min: "0.84.0"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
