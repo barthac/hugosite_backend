@@ -3,6 +3,8 @@ title: "Science and Art"
 featured_image: '/images/cleavage.jpg'
 ---
 
+I've recently been using ObservableHQ to create interactive data visualizations. Here's an animated map I made using recent BART ridership data.
+
 <iframe width="100%" height="734" frameborder="0"
   src="https://observablehq.com/embed/0e081d57afa9e7b2@674?cells=viewof+date%2Cmap&api_key=98702eee0e8a0627895d6ad8ed511ffdf5909871"></iframe>
 
