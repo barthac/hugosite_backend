@@ -1,5 +1,5 @@
 ---
-title: "Science and Art"
+title: "Visualizations"
 featured_image: '/images/cleavage.jpg'
 ---
 
@@ -42,6 +42,6 @@ Email: barthac@gmail.com
 
 <head>
 
-<title>Science and Art | Anna Barth</title>
+<title>Visualizations | Anna Barth</title>
 
 </head>
