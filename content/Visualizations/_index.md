@@ -10,9 +10,8 @@ I've recently been using ObservableHQ to create interactive data visualizations.
 
 Here's a visualization of the net productivity of different power plants in California. The background map is a Voronoi plot, which partitions the map into regions closest to each power plant. Each solar, wind, and hydro power plant appears as a dot, and by toggling between the different options, you can explore how different types of plants are distributed throughout the state. The date slider allows you to explore the variation in the plant's productivity over time: dot size and colour scales to net productivity. Can you notice any seasonal variations?
 
-<iframe width="100%" height="1404.1875" frameborder="0"
-  src="https://observablehq.com/embed/2126681278699f29@467?cells=viewof+type_str%2Cviewof+date%2Ccolorbar%2Cchart"></iframe>
-
+<iframe width="100%" height="893.234375" frameborder="0"
+  src="https://observablehq.com/embed/2126681278699f29@490?cells=viewof+type_str%2Cviewof+date%2Ccolorbar%2Cchart"></iframe>
 
 ### BART ridership
 Here's an animated map I made using monthly BART ridership data from 2018 onwards. Each dot is a BART station. The size represents the ridership that month, the color represents rate of change of ridership (warmer colors = increasing ridership, cooler colors = decreasing ridership). 
