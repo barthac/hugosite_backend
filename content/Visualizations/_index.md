@@ -22,8 +22,8 @@ Here's the same visualization, made in Tableau:
 Here's an animated map I made using monthly BART ridership data from 2018 onwards. Each dot is a BART station. The size represents the ridership that month, the color represents rate of change of ridership (warmer colors = increasing ridership, cooler colors = decreasing ridership). Where are the stations that show the most change located? What's going on there? (Note that each station is normalised by subtracting its mean and dividing by its standard deviation so that stations with vastly different ridership can still be compared).
 
 <figure>
-<iframe width="100%" height="734" frameborder="0" src="https://observablehq.com/embed/0e081d57afa9e7b2?cells=viewof+date%2Cmap"></iframe>
-<figcaption>Data from (https://www.bart.gov/about/reports/ridership)<\figcaption>
+	<iframe width="100%" height="734" frameborder="0" src="https://observablehq.com/embed/0e081d57afa9e7b2?cells=viewof+date%2Cmap"></iframe>
+	<figcaption>Data from (https://www.bart.gov/about/reports/ridership)<\figcaption>
 <\figure>
 
 
