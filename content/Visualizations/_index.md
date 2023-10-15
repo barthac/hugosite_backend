@@ -25,7 +25,7 @@ Here's an animated map I made using monthly BART ridership data from 2018 onward
 
 <figure>
 	<iframe width="100%" height="734" frameborder="0" src="https://observablehq.com/embed/0e081d57afa9e7b2?cells=viewof+date%2Cmap"></iframe>
-	<figcaption>Data from (https://www.bart.gov/about/reports/ridership)</figcaption>
+	<figcaption>Data from https://www.bart.gov/about/reports/ridership</figcaption>
 </figure>
 
 </html>
