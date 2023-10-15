@@ -10,9 +10,8 @@ I've recently been using ObservableHQ to create interactive data visualizations.
 
 Here's a visualization of the net productivity of different power plants in California. The background map is a Voronoi plot, which partitions the map into regions closest to each power plant. Each solar, wind, and hydro power plant appears as a dot, and by toggling between the different options, you can explore how different types of plants are distributed throughout the state. The date slider allows you to explore the variation in the plant's productivity over time: dot size and colour scales to net productivity. Can you notice any seasonal variations?
 
-<iframe width="100%" height="893.234375" frameborder="0"
-  src="https://observablehq.com/embed/2126681278699f29@490?cells=viewof+type_str%2Cviewof+date%2Ccolorbar%2Cchart"></iframe>
-
+<iframe width="100%" height="894" frameborder="0"
+  src="https://observablehq.com/embed/2126681278699f29@494?cells=viewof+type_str%2Cviewof+date%2Ccolorbar%2Cchart"></iframe>
 
 Here's the same visualization, made in Tableau:
 
@@ -20,12 +19,13 @@ Here's the same visualization, made in Tableau:
 
 
 ### BART ridership
-Here's an animated map I made using monthly BART ridership data from 2018 onwards. Each dot is a BART station. The size represents the ridership that month, the color represents rate of change of ridership (warmer colors = increasing ridership, cooler colors = decreasing ridership). 
+Here's an animated map I made using monthly BART ridership data from 2018 onwards. Each dot is a BART station. The size represents the ridership that month, the color represents rate of change of ridership (warmer colors = increasing ridership, cooler colors = decreasing ridership). Where are the stations that show the most change located? What's going on there? (Note that each station is normalised by subtracting its mean and dividing by its standard deviation so that stations with vastly different ridership can still be compared).
 
-
-<iframe width="100%" height="734" frameborder="0"
-  src="https://observablehq.com/embed/0e081d57afa9e7b2?cells=viewof+date%2Cmap"></iframe>
-
+<figure>
+	<iframe width="100%" height="734" frameborder="0"
+  	src="https://observablehq.com/embed/0e081d57afa9e7b2?cells=viewof+date%2Cmap"></iframe>
+	<figcaption>Data from https://www.bart.gov/about/reports/ridership<\figcaption>
+<\figure>
 
 
 ## Oklahoma Wastewater Injection and Earthquakes
