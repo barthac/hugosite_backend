@@ -10,8 +10,15 @@ I've recently been using ObservableHQ to create interactive data visualizations.
 
 Here's a visualization of the net productivity of different power plants in California. The background map is a Voronoi plot, which partitions the map into regions closest to each power plant. Each solar, wind, and hydro power plant appears as a dot, and by toggling between the different options, you can explore how different types of plants are distributed throughout the state. The date slider allows you to explore the variation in the plant's productivity over time: dot size and colour scales to net productivity. Can you notice any seasonal variations?
 
-<iframe width="100%" height="894" frameborder="0"
-  src="https://observablehq.com/embed/2126681278699f29@494?cells=viewof+type_str%2Cviewof+date%2Ccolorbar%2Cchart"></iframe>
+<html>
+
+<figure>
+	<iframe width="100%" height="894" frameborder="0" src="https://observablehq.com/embed/2126681278699f29@494?cells=viewof+type_str%2Cviewof+date%2Ccolorbar%2Cchart"></iframe>
+	<figcaption><a href="https://www.energy.ca.gov/files/webqfer-source-files">Data</a> and <a href="https://cecgis-caenergy.opendata.arcgis.com/datasets/4a702cd67be24ae7ab8173423a768e1b_0/explore">plant locations</a> from CA Energy Commission</figcaption>
+</figure>
+
+</html>
+
 
 Here's the same visualization, made in Tableau:
 
@@ -25,7 +32,7 @@ Here's an animated map I made using monthly BART ridership data from 2018 onward
 
 <figure>
 	<iframe width="100%" height="734" frameborder="0" src="https://observablehq.com/embed/0e081d57afa9e7b2?cells=viewof+date%2Cmap"></iframe>
-	<figcaption>Data from https://www.bart.gov/about/reports/ridership</figcaption>
+	<figcaption>Data from <a href="https://www.bart.gov/about/reports/ridership">BART</a></figcaption>
 </figure>
 
 </html>
